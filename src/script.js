@@ -1,4 +1,4 @@
-const clientId = "5f56bd6a2551494ca8579167c145bedf";
+const clientId = "Spotify Client ID";
 const params = new URLSearchParams(window.location.search);
 const code = params.get("code");
 
